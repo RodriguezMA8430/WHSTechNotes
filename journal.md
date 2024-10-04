@@ -4,3 +4,5 @@ This is an example entry. Prompt: I believe that you explained everything right 
 This is a free week
 # September 27th, 2024
 Precision is super important in programming because even a tiny mistake can cause the whole program to not work properly. If steps or details are missed in coding, it can lead to bugs, errors, or the program doing something completely different from what you wanted. This can be really frustrating to fix. Developing good habits of attention to detail early in your coding journey helps you avoid these problems and makes your code more reliable and easier to understand.
+# October 4th, 2024
+Computer science can have a huge impact on my life by opening up a world of opportunities. Learning to code and understand technology can increase problem sloving skills and creativity. It can also lead to cool career paths in the fields. Understanding computer science can make everyday tasks easier, from completing school projects to managing personal finances.
