@@ -36,3 +36,5 @@ I don't think that brain rot is a good thing for this generation because its neg
 # January 8th, 2025
 I really enjoyed how the assignments were one after another i didnt have to wait for my teacher to post it because it was already there.
 I really hope to improve i ngettign more work done because i know i can get more work done. My goa lfpor this semester is to do more work and finsh my work on time and do it right.
+# January 13th, 2025
+I think this is a good idea but of course it has it down sides. Putting your trust into AI is risky but AI will make it everything for them easier. It will also cost more money but its for a good reason. I believe if they can perfect AI then go for it but they should also have traditional tech roles just in case.
