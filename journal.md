@@ -38,3 +38,6 @@ I really enjoyed how the assignments were one after another i didnt have to wait
 I really hope to improve i ngettign more work done because i know i can get more work done. My goa lfpor this semester is to do more work and finsh my work on time and do it right.
 # January 13th, 2025
 I think this is a good idea but of course it has it down sides. Putting your trust into AI is risky but AI will make it everything for them easier. It will also cost more money but its for a good reason. I believe if they can perfect AI then go for it but they should also have traditional tech roles just in case.
+# January 22nd, 2025 
+I believe the government shouldn't be able to take away entertainment apps from us especially when there's more important stuff they should be doing to protect their citizens. I think if I want the app to be successful I would have to make an app that doesn't go against the law and doesn't bother the government. 
+If I want to make my app successful is looking at the apps that are not doing so good and do what tehy aren't doing. I would follow the law, maybe go around and ask on ideas to help me be successful with the app. This situation showed us that you can easily be betrayed.
