@@ -45,9 +45,9 @@ If I want to make my app successful is looking at the apps that are not doing so
 | Name   |    Car   |         Mistsake    |
 -------------------------------------------
 |  Jimmy |  Civic   | Drilled Hole        |
-|--------|----------|---------------------|
+-------------------------------------------
 | Kayla  | Sierra   | Fixed Wrong Problem |
-| -------|----------|---------------------|
+-------------------------------------------
 | Bart   | Corrolla | Stains on Carpet    |
-|--------|----------|---------------------|
+-------------------------------------------
 |Harrison| Forester | Oil cap off         |
