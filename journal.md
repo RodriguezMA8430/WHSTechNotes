@@ -41,3 +41,13 @@ I think this is a good idea but of course it has it down sides. Putting your tru
 # January 22nd, 2025 
 I believe the government shouldn't be able to take away entertainment apps from us especially when there's more important stuff they should be doing to protect their citizens. I think if I want the app to be successful I would have to make an app that doesn't go against the law and doesn't bother the government. 
 If I want to make my app successful is looking at the apps that are not doing so good and do what tehy aren't doing. I would follow the law, maybe go around and ask on ideas to help me be successful with the app. This situation showed us that you can easily be betrayed.
+# January 27th, 2025
+| Name   |    Car   |         Mistsake    |
+|--------|----------|---------------------|
+|  Jimmy |  Civic   | Drilled Hole        |
+|--------|----------|---------------------|
+| Kayla  | Sierra   | Fixed Wrong Problem |
+| -------|----------|---------------------|
+| Bart   | Corrolla | Stains on Carpet    |
+|--------|----------|---------------------|
+|Harrison| Forester | Oil cap off         |
