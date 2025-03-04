@@ -59,3 +59,11 @@ I learned that in Japan pizza is popluar because 2 Japanese chefs went to Italy 
 # February 24th, 2025
 In today’s fast-paced, interconnected world, technology serves as a powerful tool for bridging generational language gaps. With the rise of advanced communication platforms, younger generations are utilizing instant messaging, social media, and video conferencing to connect with older individuals. These platforms not only encourage dialogue but also facilitate the sharing of experiences, knowledge, and insights that can help reduce misunderstandings. For example, apps that translate languages in real-time enable effective communication regardless of linguistic differences, fostering deeper relationships across generations. By leveraging these technologies, people can create inclusive environments that honor the perspectives of both young and old, enhancing collaboration and understanding.
 Maintaining professionalism and cultural awareness is essential when navigating generational language differences. As individuals engage in cross-generational communication, it's crucial to be mindful of the terms and language styles that resonate with various age groups. Tools like language learning applications and online forums can provide both guidance and resources, ensuring that all parties feel understood and respected. Moreover, incorporating cultural sensitivity into these discussions helps to foster a respectful atmosphere where ideas can flow freely. By emphasizing mutual respect and adapting communication styles, technology can pave the way for meaningful connections that celebrate diversity and build bridges across generations.
+# March 3rd, 2025
+|   Name  |        Power         |         Mistsake      |
+| ------- | -------------------- | --------------------- |
+| Zara    |    Shapeshifitng     | Retreive stolen goods |
+| Aether  |     Telekenisis      |    Secure buliding    |
+| Thorne  |     invisibility     |   Extract Prisoner    |
+| Tangier | Weather Manipulation |   Underwater Rescue   |
+| Silver  |     Mind Control     |  Prevent Assasination |
