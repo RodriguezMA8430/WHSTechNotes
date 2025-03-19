@@ -67,3 +67,5 @@ Maintaining professionalism and cultural awareness is essential when navigating 
 | Thorne  |     invisibility     |   Extract Prisoner    |
 | Tangier | Weather Manipulation |   Underwater Rescue   |
 | Silver  |     Mind Control     |  Prevent Assasination |
+# March 17th, 2025
+During my spring break, I spent a lot of time on social media and streaming services. It was fun to connect with my friends and chill with some good shows and movies. But I also realized that I was on my screen way too much. This made me see how important it is to manage how much time I spend using technology. In class, we learned about algorithms and the ethical side of technology, which was really interesting. Knowing how apps work and how they collect our data is super important. The ways they try to keep us hooked are pretty cool, too. Figuring out how to balance my tech use is really important for staying healthy.
