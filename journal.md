@@ -74,3 +74,6 @@ The integration of advanced technologies in the NCAA basketball tournament, know
 # April 2nd, 2025
 My goal for the rest of the school year is to maintain my focus and perform well on the STAAR test. To stay motivated, I plan to create a study schedule and reward myself for meeting milestones. Small accomplishments help build confidence and maintain momentum.
 My mom is someone I can always talk to when I'm feeling overwhelmed. She's supportive, understanding, and always offers helpful advice. I trust her because she's been through similar experiences and provides a safe space for me to share my thoughts and feelings without judgment.
+# April, 10th, 2025
+I think AI tutor could be very helpful for students. I think it'll be helpful because sometimes teachers can't fit everything they want to say into one class and i think AI can do that. I think most students already use AI so actually being able to use it without getting in trouble would probably actually help. 
+AI tutor can also be helpful for teachers because somedays the teacher doesn't want to teach so they just tell the AI to do it for them. Or if the students don't understand what the teacher is trying to explain AI can explain in another form. 
