@@ -80,3 +80,13 @@ AI tutor can also be helpful for teachers because somedays the teacher doesn't w
 # April 14th, 2025
 Florida's recent laws banning student cell phone use throughout the school day and limiting access to social media on school networks have sparked quite the debate. Supporters believe these measures will significantly reduce distractions in the classroom, allowing students to focus more on their studies. They also argue that restricting social media access can help combat cyberbullying, creating a safer and more conducive learning environment for everyone. By keeping students off their phones, proponents hope to encourage face-to-face interactions and foster a more engaged classroom atmosphere.
 On the flip side, opponents of these laws voice valid concerns about the implications for student autonomy and safety. They stress that in an age where communication is instantaneous, limiting cell phone use might hinder students' ability to reach out in emergencies. If a situation arises, being cut off from their phones could leave students feeling vulnerable and isolated. Additionally, critics argue that these restrictions could impede the development of responsible technology use, as students should learn to navigate their online presence in a guided way rather than being outright prohibited from accessing their devices. Ultimately, the conversation around this legislation will shape how schools adapt to the challenging landscape of technology and education.
+# April 28th, 2025
+|    Name   |         Occasion        |   Flavor  |  Price |
+| --------- | ----------------------- | --------- | ------ |
+|   Sally   |       Graduation        | Chocolate | $35.00 |
+|  Micheal  |     Farewell Party      |  Vanilla  | $37.00 |
+|    Emma   |        Birthday         |  Carrot   | $39.00 | 
+# May 5th, 2025
+I think that 100 humans could beat a gorilla if they had the right strategy. I found that Gorillas weigh about 310-450 pounds and don't have good endurance so if all the humans weight until it gets tired they can all attack at once and possibly take it out. Another idea is that everyone attacks the gorilla at once and just gang up on the gorilla.I dont think the gorilla could take all those people at once.
+# May 12th, 2025
+I think this joke/trend is very dangerous because something could go wrong and you can injure yourself or a classmate. This trend is putting people at risk which can cause people to stop goign to school becasue they're scared of this trend. 
